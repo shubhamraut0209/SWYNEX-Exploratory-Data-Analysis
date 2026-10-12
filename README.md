@@ -152,7 +152,7 @@ This project demonstrates how exploratory analysis can help businesses:
 
 M.Sc. Statistics | B.Sc. Mathematics
 
-Aspiring Data Analyst with an interest in statistical analysis, business intelligence, and data-driven decision-making.
+Data Analyst Intern with an interest in statistical analysis, business intelligence, and data-driven decision-making.
 
 - **LinkedIn:** https://www.linkedin.com/in/shubham-raut-986bb1227/
 - **GitHub:** https://github.com/shubhamraut0209
