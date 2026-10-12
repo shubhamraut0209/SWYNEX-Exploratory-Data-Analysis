@@ -1,0 +1,15 @@
+{
+  "rows": 11814,
+  "columns": 13,
+  "unique_order_ids": 11814,
+  "unique_customers": 3368,
+  "date_start": "2024-01-01",
+  "date_end": "2026-06-30",
+  "gross_sales_estimated_usd": 1500541.86,
+  "discounts_estimated_usd": 102514.78,
+  "net_sales_estimated_usd": 1398027.08,
+  "average_rating_rated_records": 3.9,
+  "rating_missing_count": 5968,
+  "city_missing_count": 491,
+  "duplicate_full_rows": 0
+}
